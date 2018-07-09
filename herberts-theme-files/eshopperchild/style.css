@@ -1,0 +1,18 @@
+/*
+ Theme Name:   Eshopper Child
+ Theme URI:    http://www.themeperch.net/bohopeople/
+ Description:  Bohopeople child theme
+ Author:       ThemePerch
+ Author URI:   http://themeforest.net/user/themeperch
+ Template:     eshopper
+ Version:      1.0.0
+License: GNU General Public License version 3.0
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  eshopper
+*/
+@import url("../eshopper/css/woocommerce.css");
+@import url("../eshopper/style.css");
+
+
+/* Add your custom css below */

@@ -1,0 +1,302 @@
+.eshopper-shortcode-field{
+	width: 100%;
+	clear: both;
+	margin-bottom: 20px;
+	overflow: hidden;
+}
+.eshopper-shortcode-field label{
+	float: left;
+	width: 35%;
+	padding-bottom: 5px;
+}
+#setting_eshopper_css{
+  display: none!important;
+}
+
+.eshopper-shortcode-field textarea,
+.eshopper-shortcode-field input[type="text"]{
+	width: 64%;
+	float: left;
+}
+
+#TB_window{
+	z-index: 1000500;
+}
+
+#TB_overlay{
+	z-index: 1000500;
+}
+
+
+.panel-row-style-wide-grey {
+  background: #F6F6F6;
+  border-top: 1px solid #DDDDDD;
+  border-bottom: 1px solid #DDDDDD;
+  margin: 0 -20px;
+  padding: 25px 20px;
+}
+.layout-full .panel-row-style-wide-grey {
+  margin: 0 -1000px;
+  padding: 25px 1000px 25px 1000px;
+}
+
+
+/*custom option tre css*/
+
+.vc_element-icon.icon-bohopeople{
+  background-image: url(../images/bohopeople-logo.png);
+}
+
+#option-tree-options-layouts-form{
+  top: 56px!important;
+}
+
+.bohopeople-shortcode-field{
+  width: 100%;
+  clear: both;
+  margin-bottom: 20px;
+  overflow: hidden;
+}
+.bohopeople-shortcode-field label{
+  float: left;
+  width: 35%;
+  padding-bottom: 5px;
+}
+
+.bohopeople-shortcode-field textarea,
+.bohopeople-shortcode-field input[type="text"]{
+  width: 64%;
+  float: left;
+}
+
+#TB_window{
+  z-index: 1000500;
+}
+
+#TB_overlay{
+  z-index: 1000500;
+}
+
+
+.panel-row-style-wide-grey {
+  background: #F6F6F6;
+  border-top: 1px solid #DDDDDD;
+  border-bottom: 1px solid #DDDDDD;
+  margin: 0 -20px;
+  padding: 25px 20px;
+}
+.layout-full .panel-row-style-wide-grey {
+  margin: 0 -1000px;
+  padding: 25px 1000px 25px 1000px;
+}
+
+
+/*custom option tre css*/
+
+#option-tree-settings-api > .ui-tabs {
+  -webkit-box-shadow: inset 196px 0 0 #f1f1f1, inset 147px 0 0 #ccc, 0 1px 3px rgba(0,0,0,0.05) !important;
+     -moz-box-shadow: inset 196px 0 0 #f1f1f1, inset 147px 0 0 #ccc, 0 1px 3px rgba(0,0,0,0.05) !important;
+          box-shadow: inset 196px 0 0 #f1f1f1, inset 147px 0 0 #ccc, 0 1px 3px rgba(0,0,0,0.05) !important;
+
+}
+
+#option-tree-header-wrap{
+  max-width: 1000px !important;
+}
+
+
+#option-tree-sub-header,
+.option-tree-ui-buttons{
+   max-width: 980px !important;
+}
+
+#option-tree-settings-api > .ui-tabs{
+   max-width: 990px !important;
+}
+
+.wrap.settings-wrap .ui-tabs-nav{
+  width: 200px !important;
+}
+
+.wrap.settings-wrap .ui-tabs-nav li a{
+  background-repeat: no-repeat;
+  padding-left: 40px !important;
+  padding-top: 8px !important;
+  padding-bottom: 8px !important;
+}
+
+#tab_general_options a{ background-image: url(../images/icon-settings.png); background-position: 12px center; }
+#tab_header_options a{  background-image: url(../images/icon-header.png);  background-position: 12px center;}
+#tab_footer_options a{  background-image: url(../images/icon-footer.png); background-position: 12px center; }
+#tab_background_options a{  background-image: url(../images/background.png); background-position: 12px center; }
+#tab_fonts a{  background-image: url(../images/icon-typography.png); background-position: 12px center; }
+#tab_blog_options a{ background-image: url(../images/blog.png); background-position: 12px center; }
+#tab_page_options a{  background-image: url(../images/icon-portfolio.png); background-position: 12px center; }
+#tab_social_sharing_links a{ background-image: url(../images/social_links_icon.png); background-position: 12px center; }
+#tab_sidebar_option a{ background-image: url(../images/sidebar.png); background-position: 12px center; }
+#tab_front_options a{ background-image: url(../images/icon-slider.png); background-position: 12px center; }
+#tab_client_slider a{   background-image: url(../images/icon-slider.png); background-position: 12px center; }
+#tab_styling_options a{ background-image: url(../images/styling.png); background-position: 12px center; }
+#tab_custom_css a{  background-image: url(../images/css.png); background-position: 12px center; }
+#tab_theme_text a{  background-image: url(../images/extra.png); background-position: 12px center; }
+#tab_woo_options a{  background-image: url(../images/shop.png); background-position: 12px center; }
+
+.type-radio-image .option-tree-ui-radio-images img{
+  max-width: 60px;
+}
+
+
+#product_layout_meta_box .format-setting-inner,
+#product_layout_meta_box .description{
+  width: 100%;
+}
+
+.ext-menu{
+  display: none;
+}
+
+#option-tree-header #option-tree-logo a{
+  background: url(../images/logo-admin.png) no-repeat center;
+  text-indent: -999999px;
+    background-repeat: no-repeat;
+  background-position: center;
+  background-size: auto 45px;
+  background-size: 80%;
+}
+
+#adminmenu #toplevel_page_ot-settings .menu-icon-generic div.wp-menu-image::before, 
+#option-tree-header #option-tree-logo a::before{
+  content: "" !important;
+}
+
+#option-tree-header #option-tree-logo a{
+  min-height: 50px;
+  min-width: 171px;
+}
+.option-tree-active-layout{
+  min-width: 175px !important;
+}
+#option-tree-options-layouts-form .select-wrapper{
+  width: 100%;
+}
+
+#option-tree-header #option-tree-version span, 
+#option-tree-header #theme-version span{
+  line-height: 50px !important;
+  min-height: 50px !important;
+  text-transform: uppercase;
+}
+
+.megamenu_header_top ul,
+.megamenu_outer_wrap .megamenu_header .version,
+.megamenu_outer_wrap .megamenu_header_top,
+.hide-field-wrap{
+  display: none;
+}
+#setting-error-tgmpa{
+  display: block;
+}
+.megamenu_left ul li:last-child{
+  display: none !important;
+}
+#setting_header_style .type-radio-image .option-tree-ui-radio-images{
+  float: none;  
+}
+#setting_header_style .type-radio-image .option-tree-ui-radio-images img{
+  max-width: 95%;
+}
+
+/*slider css*/
+.tp-caption.bohopeople-button-grey a, 
+.bohopeople-button-grey a{
+  font-size: 12px;
+  line-height: 12px;
+  font-weight: 700;
+  font-family: "Roboto Slab";
+  color: #fff;
+  text-decoration: none;
+  background-color: rgb(189, 189, 189);
+  background-color: rgba(189, 189, 189, 0);
+  padding: 15px 53px 15px 53px;
+  border-width: 2px;
+  border-color: #bdbdbd;
+  border-style: solid;
+}
+.tp-caption.bohopeople-button-grey-darkcolor a, 
+.bohopeople-button-grey-darkcolor a{
+  font-size: 12px;
+  line-height: 12px;
+  font-weight: 700;
+  font-family: "Roboto Slab";
+  color: #525252;
+  text-decoration: none;
+  background-color: rgb(189, 189, 189);
+  background-color: rgba(189, 189, 189, 0);
+  padding: 15px 53px 15px 53px;
+  border-width: 2px;
+  border-color: #bdbdbd;
+  border-style: solid;
+}
+.tp-caption.bohopeople-button-grey a:hover, 
+.bohopeople-button-grey a:hover,
+.tp-caption.bohopeople-button-grey-darkcolor a:hover, 
+.bohopeople-button-grey-darkcolor a:hover{
+  background-color: #bdbdbd;
+  color: #fff;
+}
+.tp-caption.bohopeople-button-colorbg a, 
+.bohopeople-button-colorbg a{
+  font-size: 12px;
+  line-height: 12px;
+  font-weight: 700;
+  font-family: "Roboto Slab";
+  color: #fff;
+  text-decoration: none;
+  background-color: #f88988;
+  padding: 15px 53px 15px 53px;
+  border-width: 2px;
+  border-color: #f88988;
+  border-style: solid;
+}
+.tp-caption.bohopeople-button-colorbg a:hover, 
+.bohopeople-button-colorbg a:hover{
+  background-color: transparent;
+  color:  #f88988;
+}
+#option-tree-header #option-tree-version{
+  display: none;
+}
+
+#tab_general_options a{ background-image: url(../images/icon-settings.png); background-position: 12px center; }
+#tab_header_options a{  background-image: url(../images/icon-header.png);  background-position: 12px center;}
+#tab_footer_options a{  background-image: url(../images/icon-footer.png); background-position: 12px center; }
+#tab_background_options a{  background-image: url(../images/background.png); background-position: 12px center; }
+#tab_fonts a{  background-image: url(../images/icon-typography.png); background-position: 12px center; }
+#tab_blog_options a{ background-image: url(../images/blog.png); background-position: 12px center; }
+#tab_page_options a{  background-image: url(../images/icon-portfolio.png); background-position: 12px center; }
+#tab_social_sharing_links a{ background-image: url(../images/social_links_icon.png); background-position: 12px center; }
+#tab_sidebar_option a{ background-image: url(../images/sidebar.png); background-position: 12px center; }
+#tab_front_options a{ background-image: url(../images/icon-slider.png); background-position: 12px center; }
+#tab_client_slider a{   background-image: url(../images/icon-slider.png); background-position: 12px center; }
+#tab_styling_options a{ background-image: url(../images/styling.png); background-position: 12px center; }
+#tab_custom_css a{  background-image: url(../images/css.png); background-position: 12px center; }
+#tab_theme_text a{  background-image: url(../images/extra.png); background-position: 12px center; }
+#tab_woo_options a{  background-image: url(../images/shop.png); background-position: 12px center; }
+
+.type-radio-image .option-tree-ui-radio-images img{
+  max-width: 60px;
+}
+
+
+#product_layout_meta_box .format-setting-inner,
+#product_layout_meta_box .description{
+  width: 100%;
+}
+
+.ext-menu{
+	display: none;
+}
+
+#setting_header_style .type-radio-image .option-tree-ui-radio-images img{
+  max-width: 190px;
+}
